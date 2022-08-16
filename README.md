@@ -16,6 +16,6 @@
 
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=Appns+шпр+t+Here)
+Я хотел добавить скриншотов но тут плохо довит интернет(((
+<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=Appns+шпр+t+Here) -->
 
